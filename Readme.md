@@ -12,4 +12,6 @@ I didn't follow any particular course, sheduled and working through the flow
 | 1 | Learning Python Basic syntax | GeeksforGeeks | [first time registration link](https://practice.geeksforgeeks.org/batch/fork-python) |
 | 2 | Learning Python Basic syntax | GeeksforGeeks | [Link to content](https://practice.geeksforgeeks.org/tracks/python-module-2/?batchId=119) |
 | 3 | String, List concepts | GeeksforGeeks | [Link to content](https://practice.geeksforgeeks.org/tracks/python-module-3/?batchId=119) |
+| 4 | Classes and Functions | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-4/?batchId=119) |
+
 
