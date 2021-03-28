@@ -14,5 +14,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | 3 | String, List concepts | GeeksforGeeks | [Link to content](https://practice.geeksforgeeks.org/tracks/python-module-3/?batchId=119) |
 | 4 | Classes and Functions | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-4/?batchId=119) |
 | 5 | List and Tuples | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-5/?batchId=119) |
-
-
+| 6 | Dictionary | GeeksforGeeks | [lint to content](https://practice.geeksforgeeks.org/tracks/python-module-6/?batchId=119) |
