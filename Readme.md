@@ -15,3 +15,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | 4 | Classes and Functions | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-4/?batchId=119) |
 | 5 | List and Tuples | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-5/?batchId=119) |
 | 6 | Dictionary | GeeksforGeeks | [lint to content](https://practice.geeksforgeeks.org/tracks/python-module-6/?batchId=119) |
+| 7 | Problem Solving | HackerRank | [link to python problem solving page](https://www.hackerrank.com/domains/python?badge_type=python) |
