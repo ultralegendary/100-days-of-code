@@ -17,3 +17,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | 6 | Dictionary | GeeksforGeeks | [lint to content](https://practice.geeksforgeeks.org/tracks/python-module-6/?batchId=119) |
 | 7 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 8 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
+| 9 | Problem Solving | HackerRank | [lint to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
