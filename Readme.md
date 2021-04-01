@@ -18,3 +18,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | 7 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 8 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 9 | Problem Solving | HackerRank | [lint to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
+| 10 | Problem Solving | HackerRank | [lint to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
