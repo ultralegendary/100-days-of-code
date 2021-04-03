@@ -21,3 +21,5 @@ I didn't follow any particular course, sheduled and working through the flow
 | 10 | Problem Solving | HackerRank | [lint to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 11 | Arrays | GeeksforGeeks | [page 1](https://www.geeksforgeeks.org/data-structures/) |
 | 11 | Arrays | HackerRank | [page 2](https://www.hackerrank.com/domains/data-structures) |
+| 12 | Linked List | GeeksforGeeks | [content page](https://www.geeksforgeeks.org/data-structures/linked-list/) |
+| 12 | Linked List | HackerRank | [problem solving page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
