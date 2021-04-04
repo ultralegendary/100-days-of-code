@@ -15,11 +15,13 @@ I didn't follow any particular course, sheduled and working through the flow
 | 4 | Classes and Functions | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-4/?batchId=119) |
 | 5 | List and Tuples | GeeksforGeeks | [link to content](https://practice.geeksforgeeks.org/tracks/python-module-5/?batchId=119) |
 | 6 | Dictionary | GeeksforGeeks | [lint to content](https://practice.geeksforgeeks.org/tracks/python-module-6/?batchId=119) |
-| 7 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
-| 8 | Problem Solving | HackerRank | [link to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
-| 9 | Problem Solving | HackerRank | [lint to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
-| 10 | Problem Solving | HackerRank | [lint to the page](https://www.hackerrank.com/domains/python?badge_type=python) |
+| 7 | Problem Solving | HackerRank | [problem solving page](https://www.hackerrank.com/domains/python?badge_type=python) |
+| 8 | Problem Solving | HackerRank | [Problem solving page](https://www.hackerrank.com/domains/python?badge_type=python) |
+| 9 | Problem Solving | HackerRank | [problem solving page](https://www.hackerrank.com/domains/python?badge_type=python) |
+| 10 | Problem Solving | HackerRank | [problem solving page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 11 | Arrays | GeeksforGeeks | [page 1](https://www.geeksforgeeks.org/data-structures/) |
-| 11 | Arrays | HackerRank | [page 2](https://www.hackerrank.com/domains/data-structures) |
+|  |  | HackerRank | [page 2](https://www.hackerrank.com/domains/data-structures) |
 | 12 | Linked List | GeeksforGeeks | [content page](https://www.geeksforgeeks.org/data-structures/linked-list/) |
-| 12 | Linked List | HackerRank | [problem solving page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
+|  | | HackerRank | [problem solving page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
+| 13 | Singly/Doubly linked list |  GeeksforGeeks | [content page](https://www.geeksforgeeks.org/data-structures/linked-list/) |
+| | | HackerRank | [problem solving page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
