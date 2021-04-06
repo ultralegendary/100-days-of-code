@@ -19,10 +19,12 @@ I didn't follow any particular course, sheduled and working through the flow
 | 8 | Problem Solving | HackerRank | [Problem solving page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 9 | Problem Solving | HackerRank | [problem solving page](https://www.hackerrank.com/domains/python?badge_type=python) |
 | 10 | Problem Solving | HackerRank | [problem solving page](https://www.hackerrank.com/domains/python?badge_type=python) |
-| 11 | Arrays | GeeksforGeeks | [page 1](https://www.geeksforgeeks.org/data-structures/) |
-|  |  | HackerRank | [page 2](https://www.hackerrank.com/domains/data-structures) |
+| 11 | Arrays | GeeksforGeeks | [Content page](https://www.geeksforgeeks.org/data-structures/) |
+|  |  | HackerRank | [Problem solving](https://www.hackerrank.com/domains/data-structures) |
 | 12 | Linked List | GeeksforGeeks | [content page](https://www.geeksforgeeks.org/data-structures/linked-list/) |
-|  | | HackerRank | [problem solving page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
+|  | | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
 | 13 | Singly/Doubly linked list |  GeeksforGeeks | [content page](https://www.geeksforgeeks.org/data-structures/linked-list/) |
-| | | HackerRank | [problem solving page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
-| 14 | Circular linked list | hackerrank | [problem solving page](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
+| | | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
+| 14 | Circular linked list | hackerrank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) |
+| 15 | Intro to Stack | GeeksforGeeks | [Content page](https://www.geeksforgeeks.org/stack-data-structure/) |
+| | | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks) |
