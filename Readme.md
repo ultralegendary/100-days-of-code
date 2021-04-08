@@ -29,3 +29,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | 15 | Intro to Stack | GeeksforGeeks | [Content page](https://www.geeksforgeeks.org/stack-data-structure/) |
 | | | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks) |
 | 16 | Stack | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks) |
+| 17 | Stack | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks) |
