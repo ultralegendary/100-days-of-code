@@ -83,3 +83,26 @@ class Solution:
         
         return True
         
+#https://leetcode.com/problems/binary-tree-inorder-traversal/
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def inorderTraversal(self, root: TreeNode) -> List[int]:
+        l=[]
+        ans=[]
+        a=root
+        while True:
+            if not(a or l):
+                break
+            
+            while a:
+                l.append(a)
+                a=a.left
+            a=l.pop()
+            ans.append(a.val)
+            a=a.right
+            
+        return ans

@@ -31,4 +31,5 @@ I didn't follow any particular course, sheduled and working through the flow
 | 16 | Stack | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks) |
 | 17 | Stack | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks) |
 | 18 | Binary Tree | GeeksforGeeks | [Theory](https://www.geeksforgeeks.org/binary-tree-data-structure/) |
-| | | HackerRank | [problem solcing](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=balanced-trees&badge_type=problem-solving) |
+| | | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=balanced-trees&badge_type=problem-solving) |
+| 19 | Binary Tree | leetcode | [problem solving](https://leetcode.com/tag/tree/) |
