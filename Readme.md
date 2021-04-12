@@ -34,3 +34,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | | | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=balanced-trees&badge_type=problem-solving) |
 | 19 | Binary Tree | leetcode | [problem solving](https://leetcode.com/tag/tree/) |
 | 20 | Revise what we have done for 19 days | | |
+| 21 | Binary search tree | | [problem solving](https://leetcode.com/problemset/all/?topicSlugs=binary-search-tree) |
