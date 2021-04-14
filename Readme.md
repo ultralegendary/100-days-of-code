@@ -38,3 +38,5 @@ I didn't follow any particular course, sheduled and working through the flow
 | 22 | Heap | HackerRank | [problem solving](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=heap) |
 | | | GeeksforGeeks | [Theory](https://www.geeksforgeeks.org/heap-data-structure/) |
 | | | leetcode | [Problem solving](https://leetcode.com/tag/heap/) |
+| 23 | Hashing | GeeksforGeeks | [Theory](https://leetcode.com/tag/hash-table/) |
+| | | leetcode | [Problem solving](https://www.geeksforgeeks.org/hashing-data-structure/) |
