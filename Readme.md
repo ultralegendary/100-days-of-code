@@ -40,3 +40,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | | | leetcode | [Problem solving](https://leetcode.com/tag/heap/) |
 | 23 | Hashing | GeeksforGeeks | [Theory](https://leetcode.com/tag/hash-table/) |
 | | | leetcode | [Problem solving](https://www.geeksforgeeks.org/hashing-data-structure/) |
+| 24 | Hashing | leetcode | [Problem solving](https://www.geeksforgeeks.org/hashing-data-structure/) |
