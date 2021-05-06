@@ -42,5 +42,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | | | leetcode | [Problem solving](https://www.geeksforgeeks.org/hashing-data-structure/) |
 | 24 | Hashing | leetcode | [Problem solving](https://www.geeksforgeeks.org/hashing-data-structure/) |
 | 25 | Graphs | GeeksforGeeks | [Theory](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) |
---DUE to our tight shedule we are pasuing our 100 days of code --
-
+| 26 | Graphs | leetcode | [problems](https://leetcode.com/problemset/all/?topicSlugs=depth-first-search%2Cbreadth-first-search) |
