@@ -43,3 +43,6 @@ I didn't follow any particular course, sheduled and working through the flow
 | 24 | Hashing | leetcode | [Problem solving](https://www.geeksforgeeks.org/hashing-data-structure/) |
 | 25 | Graphs | GeeksforGeeks | [Theory](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) |
 | 26 | Graphs | leetcode | [problems](https://leetcode.com/problemset/all/?topicSlugs=depth-first-search%2Cbreadth-first-search) |
+| 27 | Bit Manipulation | hackerrank | [theory](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/) |
+| | | GeeksforGeeks | [theory](https://www.geeksforgeeks.org/bits-manipulation-important-tactics/)
+| | | leetcode | [problems](https://leetcode.com/tag/bit-manipulation/) |
