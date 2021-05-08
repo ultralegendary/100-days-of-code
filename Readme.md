@@ -46,3 +46,4 @@ I didn't follow any particular course, sheduled and working through the flow
 | 27 | Bit Manipulation | hackerrank | [theory](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/) |
 | | | GeeksforGeeks | [theory](https://www.geeksforgeeks.org/bits-manipulation-important-tactics/)
 | | | leetcode | [problems](https://leetcode.com/tag/bit-manipulation/) |
+| 28 | Regex | [problems](https://www.hackerrank.com/domains/regex) |
